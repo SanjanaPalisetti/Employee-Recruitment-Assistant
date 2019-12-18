@@ -19,7 +19,7 @@ This python program utilizes selenium to web scrape the information provided in 
 Each candidate name present in the table links to a new webpage providing more information regarding the employee.
 
 # Output - Sheet1
-![Sheet1](/Images/Sheet1)
+![Sheet1](/Images/Sheet1.png)
 
 # Output - Sheet2
-![Sheet2](/Images/Sheet2)
+![Sheet2](/Images/Sheet2.png)
