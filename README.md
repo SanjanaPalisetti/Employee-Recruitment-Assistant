@@ -7,3 +7,8 @@ The Talent Tracker website provides details regarding __Available jobs__, __Empl
 
 This python program utilizes selenium to web scrape the information provided in the tables by automatically navigating to the linked webpages, and outputs an [excel sheet](Recruitment-Info.xls) providing the details of Employees and Jobs along with the updated rows labeled as 'UPDATED'. 
 
+# Job openings table
+![Job openings table](/Images/Jobs.jpeg)
+
+# Candidates (employees) table
+![Candidates table](/Images/Candidates.jpeg)
