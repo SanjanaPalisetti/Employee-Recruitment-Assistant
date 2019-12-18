@@ -8,9 +8,9 @@ from selenium.webdriver.support.ui import Select
 
 
 # INTIALIZING VARIABLES
-username = "anithav@cerium-systems.com"
-password = "Cerium@sony"
-location = "/Users/sanjanapalisetti/Desktop/Desk/Codes/Recruitment Info.xls"
+username = "Enter username here"
+password = "Enter password here"
+location = "/Recruitment Info.xls"
 update_max = 100
 dict_candidates_date_posted = {}
 dict_candidates_status = {}
@@ -52,7 +52,7 @@ dict_jobs_update = result[12]
 # GETTING DRIVER AND LOGGING IN
 driver = webdriver.Chrome("/chromedriver")
 driver.implicitly_wait(30)
-driver.get("http://app.talentrackr.com/sony/Vendor/Login.aspx")
+driver.get("Enter website here")
 login = Login(driver)
 login.Username(username)
 login.Password(password)
